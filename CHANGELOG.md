@@ -1,3 +1,7 @@
+### 4.0.7
+
+* Fix 405 errors
+
 ### 4.0.0
 
 * Support for `swaggerize-routes` security.
